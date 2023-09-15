@@ -8,16 +8,14 @@ A web-based dashboard for detecting diseases in potato plant leaves using machin
 
 - Upload potato leaf images for disease detection.
 - Display predictions for uploaded images.
-- Visualize the last 5 uploaded images with predictions.
-
+- 
 ## Getting Started
 
 1. **Clone this repository.**
 
-   ```shell
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
-2. **Access the dashboard at http://localhost:8050 in your web browser.
+2. **Access the dashboard at http://127.0.0.1:8050/ in your web browser.
 
 Usage
 Upload a potato leaf image using the upload button.
@@ -64,7 +62,7 @@ Copy code
    ```shell
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
-2. **Open a web browser and go to http://localhost:8050 to use the dashboard.
+2. **Open a web browser and go to http://127.0.0.1:8050 to use the dashboard.
 
 ## Usage
 
