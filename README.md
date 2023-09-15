@@ -8,7 +8,6 @@
 
 - **Image Upload**: Users can upload images of potato leaves.
 - **Prediction Display**: The dashboard provides predictions for uploaded images.
-- **Image History**: The last 5 uploaded images are visualized with predictions for reference.
 
 ### Getting Started
 
