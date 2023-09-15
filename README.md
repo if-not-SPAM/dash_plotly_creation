@@ -1,6 +1,6 @@
 # dash_plotly_creation
 
-# Potato Disease Detection Dashboard
+# Potato_Disease_Detection_Dashboard
 
 A web-based dashboard for detecting diseases in potato plant leaves using machine learning.
 
