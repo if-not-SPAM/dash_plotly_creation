@@ -13,9 +13,9 @@ A web-based dashboard for detecting diseases in potato plant leaves using machin
 
 1. **Clone this repository.**
 
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
-2. **Access the dashboard at http://127.0.0.1:8050/ in your web browser.
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/if-not-SPAM/dash_plotly_creation/blob/49da0d0632f4a98d4e8d8ce137dac4ee91c99775/Plant_Disease_Detection_Dashboard.ipynb)
+   cd dash_plotly_creation
+2. **Access the dashboard at http://127.0.0.1:8050 in your web browser.
 
 Usage
 Upload a potato leaf image using the upload button.
