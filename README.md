@@ -1,6 +1,5 @@
-# dash_plotly_creation
 
-## Potato Disease Detection Dashboard
+# Potato Disease Detection Dashboard
 
 **Overview**: This is a web-based dashboard for detecting diseases in potato plant leaves. The dashboard is built using the Dash framework and TensorFlow, allowing users to upload images of potato leaves and receive predictions on whether the leaves are healthy or diseased.
 
